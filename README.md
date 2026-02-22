@@ -11,3 +11,6 @@ new_train.csv, the dataset for the classify-leaves dataset from whom we will ext
 new_class_train.csv, the new training set containing the new class
 new_class_test.csv,the new testing set containing the new class
 new_class_fewshot.csv, the dataset containing all images that will turn into the new class.
+
+## info
+you may find all the relevant info including the full research in report.pdf
